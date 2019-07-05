@@ -1,10 +1,10 @@
 Table of Contents
 =================
 
-* [监控](#%E7%9B%91%E6%8E%A7)
-  * [zabbix](#zabbix)
-  * [prometheus](#prometheus)
-  * [grafana](#grafana)
+* [监控](https://github.com/leomei91/devops_notes/tree/master/%E7%9B%91%E6%8E%A7)
+  * [zabbix](https://github.com/leomei91/devops_notes/tree/master/%E7%9B%91%E6%8E%A7/zabbix)
+  * [prometheus](https://github.com/leomei91/devops_notes/tree/master/%E7%9B%91%E6%8E%A7/prometheus)
+  * [grafana](https://github.com/leomei91/devops_notes/tree/master/%E7%9B%91%E6%8E%A7/grafana)
 * [CI/CD](#cicd)
   * [jenkins](#jenkins)
   * [gitlab](#gitlab)
@@ -47,82 +47,3 @@ Table of Contents
 * [中间件](#%E4%B8%AD%E9%97%B4%E4%BB%B6)
   * [keepalived](#keepalived)
   * [zookeeper](#zookeeper)
-  
-# 监控
-## zabbix
-
-## prometheus
-
-## grafana
-
-# CI/CD
-## jenkins
-
-## gitlab
-
-# 应用工具
-## java工具
-
-## tomcat
-
-## spring cloud
-
-## dubbo
-
-# 容器
-## docker 
-
-## k8s
-
-# 语言
-## golang
-
-## python
-
-# linux
-## shell
-
-## 命令
-
-## 内核参数
-
-## 内核机制
-
-## 文件系统
-
-# 协议
-## http
-
-## tcp
-
-## ip
-
-# 硬件
-## CPU
-
-## 内存
-
-## 磁盘
-
-# 日志
-## elk
-
-## kafka
-
-# web服务器
-## nginx
-
-# 数据库
-## mysql
-
-## redis
-
-# 批量工具
-## ansible
-
-## saltstack
-
-# 中间件
-## keepalived
-
-## zookeeper
